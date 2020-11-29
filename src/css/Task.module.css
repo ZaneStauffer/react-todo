@@ -1,0 +1,24 @@
+.taskButton{
+    padding: 11px;
+}
+.taskRow{
+    margin-bottom: 1px;
+    margin-left: 0;
+}
+.taskIcon{
+    display: flex;
+}
+.taskContents{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.taskContents p{
+    margin: 0;
+}
+.buttonColumn{
+    display: flex !important;
+    align-items: center !important;
+    padding-left: 8px;
+}
